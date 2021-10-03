@@ -1,0 +1,4 @@
+.side-bar ul > li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
